@@ -1,1 +1,3 @@
-record_id,date,case_CT,case_NOCT,total
+record_id,date_release,data_date,case_CT,case_NOCT,NOCT_CT,total
+SH0001,20220408,20220407,824,20398,323,20899
+SH0002,20220409,20220408,1015,22609,420,23204
