@@ -1,3 +1,7 @@
 # jizhidao
 
-This is a repository specifically created for Jiayun Zhu, Junlei Zhu and Zuocheng Dai.
+---
+
+# Users
+
+This is a repository especially created for Jiayun Zhu, Junlei Zhu and Zuocheng Dai.
